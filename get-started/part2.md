@@ -90,7 +90,9 @@ After downloading the project, take a look at the file called `Dockerfile` in th
 
 For more information about the Dockerfile used in the bulletin board application, see [Sample Dockerfile](#sample-dockerfile).
 
-## Build and test your image
+## Build and test your images
+
+
 
 Now that you have some source code and a Dockerfile, it's time to build your first image, and make sure the containers launched from it work as expected.
 
